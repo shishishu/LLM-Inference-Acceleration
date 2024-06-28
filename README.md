@@ -8,8 +8,8 @@
    - [Quantization](#quantization)
    - [KV Cache](#kv-cache)
    - [Continuous Batching](#continuous-batching)
-   - [HW/SW Co-design](#hw/sw-co-design)
-   - [Framework/System/Architecture](#framework/system/architecture)
+   - [HW/SW Co-design](#hwsw-co-design)
+   - [Framework/System/Architecture](#frameworksystemarchitecture)
    - [More](#more)
 
 ## About This Project

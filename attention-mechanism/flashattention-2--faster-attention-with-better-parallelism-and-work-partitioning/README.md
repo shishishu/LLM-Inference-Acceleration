@@ -11,11 +11,11 @@ Contributions:
 - within each thread block, distribute the work between warps to reduce communication through shared memory
 
 ## Core Image
-![Figure 2](fig.2.JPG)
+![Figure 2](fig.2.jpg)
 
-![Algorithm 1](algo.1.JPG)
+![Algorithm 1](algo.1.jpg)
 
-![Table 1](table.1.JPG)
+![Table 1](table.1.jpg)
 
 ## Useful Extensions
 [[Attention优化][2w字]🔥原理&图解: 从Online-Softmax到FlashAttention V1/V2/V3](https://zhuanlan.zhihu.com/p/668888063)

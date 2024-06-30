@@ -3,10 +3,10 @@
 ## Core Idea
 
 ## Core Image
-![Figure 1](fig.1.JPG)
+![Figure 1](fig.1.jpg)
 
-![Figure 2](fig.2.JPG)
+![Figure 2](fig.2.jpg)
 
-![Figure 3](fig.3.JPG)
+![Figure 3](fig.3.jpg)
 
 ## Useful Extensions

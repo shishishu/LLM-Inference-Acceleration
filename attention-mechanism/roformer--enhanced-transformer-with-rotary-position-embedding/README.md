@@ -9,10 +9,10 @@
 总的来说，ALiBi的设计使其能够在长上下文窗口上进行有效的推理，而RoPE在外推到更长序列时可能会遇到挑战。这主要是因为ALiBi通过引入线性偏置来调整注意力得分，而不是依赖于可能无法泛化到更长序列的位置嵌入。
 
 ## Core Image
-![3.2.2](3.2.2.JPG)
+![3.2.2](3.2.2.jpg)
 
-![Figure 1](fig.1.JPG)
+![Figure 1](fig.1.jpg)
 
-![Figure 2](fig.2.JPG)
+![Figure 2](fig.2.jpg)
 
 ## Useful Extensions

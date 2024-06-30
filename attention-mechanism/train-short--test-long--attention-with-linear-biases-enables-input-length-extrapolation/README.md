@@ -3,6 +3,6 @@
 ## Core Idea
 
 ## Core Image
-![Figure 3](fig.3.JPG)
+![Figure 3](fig.3.jpg)
 
 ## Useful Extensions

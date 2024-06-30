@@ -33,16 +33,16 @@ Upcoming topics include: FlashDecoding
 |:---:|:---:|:---:|:---:|:---:|
 |MQA|[Fast Transformer Decoding: One Write-Head is All You Need](https://arxiv.org/abs/1911.02150v1)|Google|2019.11|176|
 |GQA|[EMNLP 2023] [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://arxiv.org/abs/2305.13245) [[Paper Overview](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/attention-mechanism/gqa--training-generalized-multi-query-transformer-models-from-multi-head-checkpoints/README.md)]|Google|2023.05|174|
-|ALiBi|[ICLR 2022] [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/abs/2108.12409)|UW, Facebook, Allen Institute|2021.08|416|
-|RoPE|[Neurocomputing 2024] [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)|Zhuiyi Technology|2021.04|937|
-|CoPE|[Contextual Position Encoding: Learning to Count What's Important](https://arxiv.org/abs/2405.18719)|Meta|2024.05|2|
-|FlashAttention|[NeurIPS 2022] [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)|Stanford, University at Buffalo|2022.05|915|
-|FlashAttention2|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691)|Princeton, Stanford|2023.07|281|
+|ALiBi|[ICLR 2022] [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/abs/2108.12409) [[Paper Overview](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/attention-mechanism/train-short--test-long--attention-with-linear-biases-enables-input-length-extrapolation/README.md)]|UW, Facebook, Allen Institute|2021.08|416|
+|RoPE|[Neurocomputing 2024] [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864) [[Paper Overview](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/attention-mechanism/roformer--enhanced-transformer-with-rotary-position-embedding/README.md)]|Zhuiyi Technology|2021.04|937|
+|CoPE|[Contextual Position Encoding: Learning to Count What's Important](https://arxiv.org/abs/2405.18719) [[Paper Overview](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/attention-mechanism/contextual-position-encoding--learning-to-count-what-s-important/README.md)]|Meta|2024.05|2|
+|FlashAttention|[NeurIPS 2022] [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) [[Paper Overview](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/attention-mechanism/flashattention--fast-and-memory-efficient-exact-attention-with-io-awareness/README.md)]|Stanford, University at Buffalo|2022.05|915|
+|FlashAttention2|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) [[Paper Overview](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/attention-mechanism/flashattention-2--faster-attention-with-better-parallelism-and-work-partitioning/README.md)]|Princeton, Stanford|2023.07|281|
 |Longformer|[Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)|Allen Institute|2020.04|3605|
-|Mistral|[Mistral 7B](https://arxiv.org/abs/2310.06825)|Mistral|2023.10|313|
-|StreamingLLM, Attention Sinks|[ICLR 2024] [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453)|MIT, Meta, CMU etc|2023.09|146|
-|LoRA|[ICLR 2022] [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)|Microsoft|2021.06|4818|
-|LISA|[LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning](https://arxiv.org/abs/2403.17919)|HKUST, UIUC|2024.03|2|
+|Mistral|[Mistral 7B](https://arxiv.org/abs/2310.06825) [[Paper Overview](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/attention-mechanism/mistral-7b/README.md)]|Mistral|2023.10|313|
+|StreamingLLM, Attention Sinks|[ICLR 2024] [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453) [[Paper Overview](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/attention-mechanism/efficient-streaming-language-models-with-attention-sinks/README.md)]|MIT, Meta, CMU etc|2023.09|146|
+|LoRA|[ICLR 2022] [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) [[Paper Overview](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/attention-mechanism/lora--low-rank-adaptation-of-large-language-models/README.md)]|Microsoft|2021.06|4818|
+|LISA|[LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning](https://arxiv.org/abs/2403.17919) [[Paper Overview](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/attention-mechanism/lisa--layerwise-importance-sampling-for-memory-efficient-large-language-model-fine-tuning/README.md)]|HKUST, UIUC|2024.03|2|
 
 ## Quantization
 

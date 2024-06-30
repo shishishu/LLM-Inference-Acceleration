@@ -21,7 +21,7 @@ It will be updated regularly. Contributions are welcome, so feel free to star or
 
 Design Rule:
 - Keywords: frequent academic terms for paper search.
-- **Paper intro**: ==core idea/image with useful extensions are included for quick start.==
+- <mark>**Paper intro**: core idea/image with useful extensions are included for quick start.</mark>
 - Citation: data for the papers is sourced from Google Scholar.
 
 ## Attention Mechanism

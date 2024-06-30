@@ -26,7 +26,7 @@ Last update of cititation was on 29th June, 2024.
 Upcoming topics include: FlashDecoding
 
 Keywords | Title | Affiliation | Publication | Cititaion
-|---|---|---|---|---
+|---|-----------------------|---|---|---
 |MQA|[Fast Transformer Decoding: One Write-Head is All You Need](https://arxiv.org/abs/1911.02150v1)|Google|2019.11|176
 |GQA|[GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://arxiv.org/abs/2305.13245)|Google|2023.05, EMNLP 2023|174
 |ALiBi|[Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/abs/2108.12409)|UW, Facebook, Allen Institute|2021.08, ICLR 2022|416

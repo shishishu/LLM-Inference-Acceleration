@@ -28,7 +28,7 @@ Upcoming topics include: FlashDecoding
 |Keywords | Title | Affiliation | Date | Cititaion|
 |:---:|:---:|:---:|:---:|:---:|
 |MQA|[Fast Transformer Decoding: One Write-Head is All You Need](https://arxiv.org/abs/1911.02150v1)|Google|2019.11|176|
-|GQA|[GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://arxiv.org/abs/2305.13245) [EMNLP 2023]|Google|2023.05|174|
+|GQA|[GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://arxiv.org/abs/2305.13245) [EMNLP 2023] [[Overview](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/Attention%20Mechanism/GQA_Training%20Generalized%20Multi-Query%20Transformer%20Models%20from%20Multi-Head%20Checkpoints/README.md)]|Google|2023.05|174|
 |ALiBi|[Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/abs/2108.12409) [ICLR 2022]|UW, Facebook, Allen Institute|2021.08|416|
 |RoPE|[RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864) [Neurocomputing 2024]|Zhuiyi Technology|2021.04|937|
 |CoPE|[Contextual Position Encoding: Learning to Count What's Important](https://arxiv.org/abs/2405.18719)|Meta|2024.05|2|

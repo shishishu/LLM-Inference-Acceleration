@@ -8,6 +8,7 @@ Contributions:
   - also consider the error from the non-salient channels when protecting salient ones.
 
 [kimi] 对比SmoothQuant
+
 AWQ（Activation-aware Weight Quantization）和SmoothQuant是两种不同的量化方法，它们在量化的对象和目标上有所区别。
 
 AWQ：

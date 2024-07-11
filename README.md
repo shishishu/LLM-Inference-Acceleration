@@ -53,7 +53,7 @@ Last update of cititation was on 5th July, 2024.
 |SmoothQuant|**SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models** [ICML2023]|[[pdf](https://arxiv.org/abs/2211.10438)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/quantization/smoothquant--accurate-and-efficient-post-training-quantization-for-large-language-models/README.md)]|MIT, NVIDIA|2022.11|382|
 |AWQ|**AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration** [MLSys 2024]|[[pdf](https://arxiv.org/abs/2306.00978)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/quantization/awq--activation-aware-weight-quantization-for-llm-compression-and-acceleration/README.md)]|MIT, SJTU, NVIDIA etc|2023.06|235|
 |OneBit|**OneBit: Towards Extremely Low-bit Large Language Models**|[[pdf](https://arxiv.org/abs/2402.11295)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/quantization/onebit--towards-extremely-low-bit-large-language-models/README.md)]|THU, HIT|2024.02|4|
-|OneBit|**The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**|[[pdf](https://arxiv.org/abs/2402.17764)]|Microsoft, UCAS|2024.02|39|
+|OneBit|**The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**|[[pdf](https://arxiv.org/abs/2402.17764)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/quantization/the-era-of-1-bit-llms--all-large-language-models-are-in-1.58-bits/README.md)]|Microsoft, UCAS|2024.02|39|
 
 ## KV Cache
 

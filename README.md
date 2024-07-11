@@ -49,7 +49,7 @@ Last update of cititation was on 5th July, 2024.
 
 |Keywords | Title | Paper | Affiliation | Date | Cititaion|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|LLM.int8|**LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale** [NeurIPS 2022]|[[pdf](https://arxiv.org/abs/2208.07339)]|UW, Facebook, Hugging Face etc|2022.08|554|
+|LLM.int8|**LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale** [NeurIPS 2022]|[[pdf](https://arxiv.org/abs/2208.07339)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/quantization/llm.int8----8-bit-matrix-multiplication-for-transformers-at-scale/README.md)]|UW, Facebook, Hugging Face etc|2022.08|554|
 |SmoothQuant|**SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models** [ICML2023]|[[pdf](https://arxiv.org/abs/2211.10438)]|MIT, NVIDIA|2022.11|382|
 |AWQ|**AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration** [MLSys 2024]|[[pdf](https://arxiv.org/abs/2306.00978)]|MIT, SJTU, NVIDIA etc|2023.06|235|
 |OneBit|**OneBit: Towards Extremely Low-bit Large Language Models**|[[pdf](https://arxiv.org/abs/2402.11295)]|THU, HIT|2024.02|4|

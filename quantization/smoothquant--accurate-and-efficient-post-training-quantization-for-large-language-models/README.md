@@ -38,3 +38,8 @@ SmoothQuant
 ![Figure 5](fig.5.jpg)
 
 ## Useful Extensions
+Code: https://github.com/mit-han-lab/smoothquant
+
+Integrated into NVIDIA TensorRT-LLM: https://github.com/NVIDIA/TensorRT-LLM
+
+[大语言模型推理加速技术：模型压缩篇](https://zhuanlan.zhihu.com/p/667455383)

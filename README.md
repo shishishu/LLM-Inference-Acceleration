@@ -47,6 +47,8 @@ Upcoming topics include: FlashDecoding
 ## Quantization
 Last update of cititation was on 5th July, 2024.
 
+Upcoming topics include: QLoRA
+
 |Keywords | Title | Paper | Affiliation | Date | Cititaion|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |LLM.int8|**LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale** [NeurIPS 2022]|[[pdf](https://arxiv.org/abs/2208.07339)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/quantization/llm.int8----8-bit-matrix-multiplication-for-transformers-at-scale/README.md)]|UW, Facebook, Hugging Face etc|2022.08|554|

@@ -21,7 +21,7 @@ It will be updated regularly. Contributions are welcome, so feel free to star or
 
 Design Rule:
 - Keywords: frequent academic terms for paper search.
-- <mark>**Paper intro**: core idea/image with useful extensions are included for quick start.</mark>
+- <mark>**Paper intro**: core idea/image with useful extensions are included for quick start. See example [[intro of SmoothQuant](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/quantization/smoothquant--accurate-and-efficient-post-training-quantization-for-large-language-models/README.md)].</mark>
 - Citation: data for the papers is sourced from Google Scholar.
 
 ## Attention Mechanism

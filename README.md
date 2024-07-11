@@ -52,7 +52,7 @@ Last update of cititation was on 5th July, 2024.
 |LLM.int8|**LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale** [NeurIPS 2022]|[[pdf](https://arxiv.org/abs/2208.07339)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/quantization/llm.int8----8-bit-matrix-multiplication-for-transformers-at-scale/README.md)]|UW, Facebook, Hugging Face etc|2022.08|554|
 |SmoothQuant|**SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models** [ICML2023]|[[pdf](https://arxiv.org/abs/2211.10438)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/quantization/smoothquant--accurate-and-efficient-post-training-quantization-for-large-language-models/README.md)]|MIT, NVIDIA|2022.11|382|
 |AWQ|**AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration** [MLSys 2024]|[[pdf](https://arxiv.org/abs/2306.00978)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/quantization/awq--activation-aware-weight-quantization-for-llm-compression-and-acceleration/README.md)]|MIT, SJTU, NVIDIA etc|2023.06|235|
-|OneBit|**OneBit: Towards Extremely Low-bit Large Language Models**|[[pdf](https://arxiv.org/abs/2402.11295)]|THU, HIT|2024.02|4|
+|OneBit|**OneBit: Towards Extremely Low-bit Large Language Models**|[[pdf](https://arxiv.org/abs/2402.11295)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/quantization/onebit--towards-extremely-low-bit-large-language-models/README.md)]|THU, HIT|2024.02|4|
 |OneBit|**The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**|[[pdf](https://arxiv.org/abs/2402.17764)]|Microsoft, UCAS|2024.02|39|
 
 ## KV Cache

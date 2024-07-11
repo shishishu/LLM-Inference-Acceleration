@@ -38,3 +38,4 @@ SmoothQuant
 ![Figure 5](fig.5.jpg)
 
 ## Useful Extensions
+[大语言模型推理加速技术：模型压缩篇](https://zhuanlan.zhihu.com/p/667455383)

@@ -11,4 +11,4 @@ Conclusions:
 ![Algorithm 1](algo.1.jpg)
 
 ## Useful Extensions
-[[Attention优化][2w字]🔥原理&图解: 从Online-Softmax到FlashAttention V1/V2/V3](https://zhuanlan.zhihu.com/p/668888063)
+[知乎] [[Attention优化][2w字]🔥原理&图解: 从Online-Softmax到FlashAttention V1/V2/V3](https://zhuanlan.zhihu.com/p/668888063)

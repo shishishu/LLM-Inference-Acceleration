@@ -66,3 +66,6 @@ Upcoming topics include: QLoRA
 ## Framework/System/Architecture
 
 ## More
+|Keywords | Title | Paper | Affiliation | Date | Cititaion|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Block Transformer|**Block Transformer: Global-to-Local Language Modeling for Fast Inference**|[[pdf](https://arxiv.org/abs/2406.02657)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/more/block-transformer--global-to-local-language-modeling-for-fast-inference/README.md)]|KAIST, LG, Google|2024.06||

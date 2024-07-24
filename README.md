@@ -68,4 +68,5 @@ Upcoming topics include: QLoRA
 ## More
 |Keywords | Title | Paper | Affiliation | Date | Cititaion|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Block Transformer|**Block Transformer: Global-to-Local Language Modeling for Fast Inference**|[[pdf](https://arxiv.org/abs/2406.02657)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/more/block-transformer--global-to-local-language-modeling-for-fast-inference/README.md)]|KAIST, LG, Google|2024.06||
+|Block Transformer|**Block Transformer: Global-to-Local Language Modeling for Fast Inference**|[[pdf](https://arxiv.org/abs/2406.02657)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/more/block-transformer--global-to-local-language-modeling-for-fast-inference/README.md)]|KAIST, LG, Google|2024.06|1|
+|TTT|**Learning to (Learn at Test Time): RNNs with Expressive Hidden States**|[[pdf](https://arxiv.org/abs/2407.04620)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/more/learning-to--learn-at-test-time---rnns-with-expressive-hidden-states/README.md)]|Stanford, UC San Diego, UC Berkeley etc|2024.07|1|

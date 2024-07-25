@@ -62,7 +62,7 @@ Last update of cititation was on 25th July, 2024.
 
 |Keywords | Title | Paper | Affiliation | Date | Cititaion|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|vLLM|**Efficient Memory Management for Large Language Model Serving with PagedAttention** [SOSP 2023]|[[pdf](https://arxiv.org/abs/2309.06180)]|UC Berkeley, Stanford, UC San Diego|2023.09|496|
+|vLLM, PagedAttention|**Efficient Memory Management for Large Language Model Serving with PagedAttention** [SOSP 2023]|[[pdf](https://arxiv.org/abs/2309.06180)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/kv-cache/efficient-memory-management-for-large-language-model-serving-with-pagedattention/README.md)]|UC Berkeley, Stanford, UC San Diego|2023.09|496|
 
 
 ## Continuous Batching

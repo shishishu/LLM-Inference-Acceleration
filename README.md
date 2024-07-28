@@ -4,6 +4,7 @@
 
  - [About This Project](#about-this-project)
  - [Listing of Papers by Topics](#listing-of-papers-by-topics)
+   - [Review](#review)
    - [Attention Mechanism](#attention-mechanism)
    - [Quantization](#quantization)
    - [KV Cache](#kv-cache)
@@ -23,6 +24,13 @@ Design Rule:
 - Keywords: frequent academic terms for paper search.
 - <mark>**Paper intro**: core idea/image with useful extensions are included for quick start. See example [[intro of SmoothQuant](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/quantization/smoothquant--accurate-and-efficient-post-training-quantization-for-large-language-models/README.md)].</mark>
 - Citation: data for the papers is sourced from Google Scholar.
+
+## Review
+Last update of cititation was on 28th July, 2024.
+
+|Keywords | Title | Paper | Affiliation | Date | Cititaion|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|LLM Serving|**Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems**|[[pdf](https://arxiv.org/abs/2312.15234)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/review/towards-efficient-generative-large-language-model-serving--a-survey-from-algorithms-to-systems/README.md)]|CMU|2023.12|36|
 
 ## Attention Mechanism
 Last update of cititation was on 29th June, 2024.

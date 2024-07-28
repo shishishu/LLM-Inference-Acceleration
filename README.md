@@ -28,7 +28,7 @@ Design Rule:
 ## Review
 Last update of cititation was on 28th July, 2024.
 
-|Keywords | Title | Paper | Affiliation | Date | Cititaion|
+|Keywords | Title | Paper | Affiliation | Date | Citation|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |LLM Inference|**Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems**|[[pdf](https://arxiv.org/abs/2312.15234)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/review/towards-efficient-generative-large-language-model-serving--a-survey-from-algorithms-to-systems/README.md)]|CMU|2023.12|36|
 |LLM Inference|**A survey on efficient inference for large language models**|[[pdf](https://arxiv.org/abs/2404.14294)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/review/a-survey-on-efficient-inference-for-large-language-models/README.md)]|THU,  Infinigence-AI, SJTU etc|2024.04|14|
@@ -38,7 +38,7 @@ Last update of cititation was on 29th June, 2024.
 
 Upcoming topics include: FlashDecoding
 
-|Keywords | Title | Paper | Affiliation | Date | Cititaion|
+|Keywords | Title | Paper | Affiliation | Date | Citation|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |MQA|**Fast Transformer Decoding: One Write-Head is All You Need**|[[pdf](https://arxiv.org/abs/1911.02150v1)]|Google|2019.11|176|
 |GQA|**GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints** [EMNLP 2023]|[[pdf](https://arxiv.org/abs/2305.13245)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/attention-mechanism/gqa--training-generalized-multi-query-transformer-models-from-multi-head-checkpoints/README.md)]|Google|2023.05|174|
@@ -58,7 +58,7 @@ Last update of cititation was on 5th July, 2024.
 
 Upcoming topics include: QLoRA
 
-|Keywords | Title | Paper | Affiliation | Date | Cititaion|
+|Keywords | Title | Paper | Affiliation | Date | Citation|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |LLM.int8|**LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale** [NeurIPS 2022]|[[pdf](https://arxiv.org/abs/2208.07339)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/quantization/llm.int8----8-bit-matrix-multiplication-for-transformers-at-scale/README.md)]|UW, Facebook, Hugging Face etc|2022.08|554|
 |SmoothQuant|**SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models** [ICML 2023]|[[pdf](https://arxiv.org/abs/2211.10438)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/quantization/smoothquant--accurate-and-efficient-post-training-quantization-for-large-language-models/README.md)]|MIT, NVIDIA|2022.11|382|
@@ -69,7 +69,7 @@ Upcoming topics include: QLoRA
 ## KV Cache
 Last update of cititation was on 25th July, 2024.
 
-|Keywords | Title | Paper | Affiliation | Date | Cititaion|
+|Keywords | Title | Paper | Affiliation | Date | Citation|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |vLLM, PagedAttention|**Efficient Memory Management for Large Language Model Serving with PagedAttention** [SOSP 2023]|[[pdf](https://arxiv.org/abs/2309.06180)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/kv-cache/efficient-memory-management-for-large-language-model-serving-with-pagedattention/README.md)]|UC Berkeley, Stanford, UC San Diego|2023.09|496|
 
@@ -83,7 +83,7 @@ Last update of cititation was on 25th July, 2024.
 ## More
 Last update of cititation was on 24th July, 2024.
 
-|Keywords | Title | Paper | Affiliation | Date | Cititaion|
+|Keywords | Title | Paper | Affiliation | Date | Citation|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Block Transformer|**Block Transformer: Global-to-Local Language Modeling for Fast Inference**|[[pdf](https://arxiv.org/abs/2406.02657)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/more/block-transformer--global-to-local-language-modeling-for-fast-inference/README.md)]|KAIST, LG, Google|2024.06|1|
 |TTT|**Learning to (Learn at Test Time): RNNs with Expressive Hidden States**|[[pdf](https://arxiv.org/abs/2407.04620)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/more/learning-to--learn-at-test-time---rnns-with-expressive-hidden-states/README.md)]|Stanford, UC San Diego, UC Berkeley etc|2024.07|1|

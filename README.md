@@ -31,7 +31,7 @@ Last update of cititation was on 28th July, 2024.
 |Keywords | Title | Paper | Affiliation | Date | Cititaion|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |LLM Inference|**Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems**|[[pdf](https://arxiv.org/abs/2312.15234)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/review/towards-efficient-generative-large-language-model-serving--a-survey-from-algorithms-to-systems/README.md)]|CMU|2023.12|36|
-|LLM Inference|**A survey on efficient inference for large language models**|[[pdf](https://arxiv.org/abs/2404.14294)]|THU,  Infinigence-AI, SJTU etc|2024.04|14|
+|LLM Inference|**A survey on efficient inference for large language models**|[[pdf](https://arxiv.org/abs/2404.14294)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/review/a-survey-on-efficient-inference-for-large-language-models/README.md)]|THU,  Infinigence-AI, SJTU etc|2024.04|14|
 
 ## Attention Mechanism
 Last update of cititation was on 29th June, 2024.

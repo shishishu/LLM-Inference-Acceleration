@@ -62,3 +62,5 @@
 
 ## Useful Extensions
 [知乎] [大模型推理加速技术的学习路线是什么?](https://www.zhihu.com/question/591646269/answer/3360933376)
+
+[知乎] [大语言模型推理性能优化综述](https://zhuanlan.zhihu.com/p/656485997)

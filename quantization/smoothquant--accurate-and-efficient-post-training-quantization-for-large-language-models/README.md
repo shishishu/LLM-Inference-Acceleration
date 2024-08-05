@@ -43,3 +43,5 @@ Code: https://github.com/mit-han-lab/smoothquant
 Integrated into NVIDIA TensorRT-LLM: https://github.com/NVIDIA/TensorRT-LLM
 
 [知乎] [大语言模型推理加速技术：模型压缩篇](https://zhuanlan.zhihu.com/p/667455383)
+
+[bilibili] [MIT副教授韩松：超越摩尔定律的极限扩展计算性能，加速人工智能计算_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12f421f7i2)

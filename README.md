@@ -75,6 +75,13 @@ Last update of cititation was on 25th July, 2024.
 
 
 ## Continuous Batching
+Last update of cititation was on 5th August, 2024.
+
+|Keywords | Title | Paper | Affiliation | Date | Citation|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Cellular Batching|**Low latency rnn inference with cellular batching** [EuroSys 2018]|[[pdf](https://madsys.cs.tsinghua.edu.cn/publication/low-latency-rnn-inference-with-cellular-batching/EUROSYS2018-gao.pdf)]|THU, NYU|2018.04|97|
+|ORCA|**Orca: A Distributed Serving System for Transformer-Based Generative Models** [OSDI 2022]|[[pdf](https://www.usenix.org/conference/osdi22/presentation/yu)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/continuous-batching/orca--a-distributed-serving-system-for-transformer-based-generative-models/README.md)]|SNU, FriendliAI|2022.07|195|
+|SARATHI|**SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills**|[[pdf](https://arxiv.org/abs/2308.16369)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/continuous-batching/sarathi--efficient-llm-inference-by-piggybacking-decodes-with-chunked-prefills/README.md)]|Microsoft, GIT|2023.08|36|
 
 ## HW/SW Co-design
 

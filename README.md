@@ -26,7 +26,7 @@ Design Rule:
 - Citation: data for the papers is sourced from Google Scholar.
 
 ## Review
-Last update of cititation was on 28th July, 2024.
+Last update of citation was on 28th July, 2024.
 
 |Keywords | Title | Paper | Affiliation | Date | Citation|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -34,7 +34,7 @@ Last update of cititation was on 28th July, 2024.
 |LLM Inference|**A survey on efficient inference for large language models**|[[pdf](https://arxiv.org/abs/2404.14294)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/review/a-survey-on-efficient-inference-for-large-language-models/README.md)]|THU,  Infinigence-AI, SJTU etc|2024.04|14|
 
 ## Attention Mechanism
-Last update of cititation was on 29th June, 2024.
+Last update of citation was on 29th June, 2024.
 
 Upcoming topics include: FlashDecoding
 
@@ -54,7 +54,7 @@ Upcoming topics include: FlashDecoding
 |LISA|**LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**|[[pdf](https://arxiv.org/abs/2403.17919)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/attention-mechanism/lisa--layerwise-importance-sampling-for-memory-efficient-large-language-model-fine-tuning/README.md)]|HKUST, UIUC|2024.03|2|
 
 ## Quantization
-Last update of cititation was on 5th July, 2024.
+Last update of citation was on 5th July, 2024.
 
 Upcoming topics include: QLoRA
 
@@ -67,7 +67,7 @@ Upcoming topics include: QLoRA
 |OneBit|**The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**|[[pdf](https://arxiv.org/abs/2402.17764)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/quantization/the-era-of-1-bit-llms--all-large-language-models-are-in-1.58-bits/README.md)]|Microsoft, UCAS|2024.02|39|
 
 ## KV Cache
-Last update of cititation was on 25th July, 2024.
+Last update of citation was on 25th July, 2024.
 
 |Keywords | Title | Paper | Affiliation | Date | Citation|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -75,7 +75,7 @@ Last update of cititation was on 25th July, 2024.
 
 
 ## Continuous Batching
-Last update of cititation was on 5th August, 2024.
+Last update of citation was on 5th August, 2024.
 
 |Keywords | Title | Paper | Affiliation | Date | Citation|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -88,7 +88,7 @@ Last update of cititation was on 5th August, 2024.
 ## Framework/System/Architecture
 
 ## More
-Last update of cititation was on 24th July, 2024.
+Last update of citation was on 24th July, 2024.
 
 |Keywords | Title | Paper | Affiliation | Date | Citation|
 |:---:|:---:|:---:|:---:|:---:|:---:|

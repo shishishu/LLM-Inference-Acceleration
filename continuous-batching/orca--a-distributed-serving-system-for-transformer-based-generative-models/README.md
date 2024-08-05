@@ -39,6 +39,7 @@ which is crucial for applying batching with iteration-level scheduling
 ![Figure 8](fig.8.jpg)
 
 Reference from Cellular Batching:
+
 ![Figure 5](EuroSys18.fig.5.jpg)
 
 ## Useful Extensions

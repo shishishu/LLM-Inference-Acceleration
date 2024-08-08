@@ -88,9 +88,10 @@ Last update of citation was on 5th August, 2024.
 ## Framework/System/Architecture
 
 ## More
-Last update of citation was on 24th July, 2024.
+Last update of citation was on 8th August, 2024.
 
 |Keywords | Title | Paper | Affiliation | Date | Citation|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Block Transformer|**Block Transformer: Global-to-Local Language Modeling for Fast Inference**|[[pdf](https://arxiv.org/abs/2406.02657)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/more/block-transformer--global-to-local-language-modeling-for-fast-inference/README.md)]|KAIST, LG, Google|2024.06|1|
-|TTT|**Learning to (Learn at Test Time): RNNs with Expressive Hidden States**|[[pdf](https://arxiv.org/abs/2407.04620)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/more/learning-to--learn-at-test-time---rnns-with-expressive-hidden-states/README.md)]|Stanford, UC San Diego, UC Berkeley etc|2024.07|1|
+|Block Transformer|**Block Transformer: Global-to-Local Language Modeling for Fast Inference**|[[pdf](https://arxiv.org/abs/2406.02657)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/more/block-transformer--global-to-local-language-modeling-for-fast-inference/README.md)]|KAIST, LG, Google|2024.06|2|
+|TTT|**Learning to (Learn at Test Time): RNNs with Expressive Hidden States**|[[pdf](https://arxiv.org/abs/2407.04620)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/more/learning-to--learn-at-test-time---rnns-with-expressive-hidden-states/README.md)]|Stanford, UC San Diego, UC Berkeley etc|2024.07|3|
+|LazyLLM|**LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference**|[[pdf](https://arxiv.org/abs/2407.14057)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/more/lazyllm--dynamic-token-pruning-for-efficient-long-context-llm-inference/README.md)]|Apple, Meta|2024.07||

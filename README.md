@@ -34,9 +34,9 @@ Last update of citation was on 28th July, 2024.
 |LLM Inference|**A survey on efficient inference for large language models**|[[pdf](https://arxiv.org/abs/2404.14294)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/review/a-survey-on-efficient-inference-for-large-language-models/README.md)]|THU,  Infinigence-AI, SJTU etc|2024.04|14|
 
 ## Attention Mechanism
-Last update of citation was on 29th June, 2024.
+Last update of citation was on 20th Oct, 2024.
 
-Upcoming topics include: FlashDecoding
+Upcoming topics include: FlashDecoding, QLoRA
 
 |Keywords | Title | Paper | Affiliation | Date | Citation|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -52,6 +52,7 @@ Upcoming topics include: FlashDecoding
 |StreamingLLM, Attention Sinks|**Efficient Streaming Language Models with Attention Sinks** [ICLR 2024]|[[pdf](https://arxiv.org/abs/2309.17453)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/attention-mechanism/efficient-streaming-language-models-with-attention-sinks/README.md)]|MIT, Meta, CMU etc|2023.09|146|
 |LoRA|**LoRA: Low-Rank Adaptation of Large Language Models** [ICLR 2022]|[[pdf](https://arxiv.org/abs/2106.09685)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/attention-mechanism/lora--low-rank-adaptation-of-large-language-models/README.md)]|Microsoft|2021.06|4818|
 |LISA|**LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**|[[pdf](https://arxiv.org/abs/2403.17919)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/attention-mechanism/lisa--layerwise-importance-sampling-for-memory-efficient-large-language-model-fine-tuning/README.md)]|HKUST, UIUC|2024.03|2|
+|HydraLoRA|**HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning** [NIPS 2024]|[[pdf](https://arxiv.org/abs/2404.19245)] [[intro](https://github.com/shishishu/LLM-Inference-Acceleration/blob/main/more/hydralora--an-asymmetric-lora-architecture-for-efficient-fine-tuning/README.md)]|University of Macau, University of Texas at Austin, Cambridge|2024.04|2|
 
 ## Quantization
 Last update of citation was on 5th July, 2024.
